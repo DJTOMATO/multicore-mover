@@ -1,6 +1,5 @@
 # BE SURE TO REPLACE F: WITH YOUR USB PATH
 
-py
 import os
 import shutil
 
